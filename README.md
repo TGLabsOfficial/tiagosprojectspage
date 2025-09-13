@@ -1,4 +1,4 @@
-# Tiagos Project Page
+# Tiago's Project Page
 
 Welcome to my personal website!  
 Here I share my creative projects, including 3D models, Minecraft worlds, and more.
