@@ -18,4 +18,4 @@ If you want to reach me, you can email me at: tiagosprojectspage@gmail.com
 - The website is currently under development, and content may be updated regularly.
 - All projects are created by me unless otherwise specified.
 
-Created by TGLabsOfficial
+Created by Tiago, owner of TGLabsOfficial
