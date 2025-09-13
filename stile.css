@@ -1,0 +1,46 @@
+﻿body{
+    background-color: #292929;
+}
+
+
+.titolo {
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    color: coral;
+}
+.sottotitolo {
+    text-align:left;
+    font-family: Arial, sans-serif;
+    color: white;
+    font-size: 20px;
+    padding-left: 100px;
+}
+
+
+.testo {
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    color: white;
+    text-align: center;
+}
+.text-box {
+    width: 80%;
+    margin: 20px auto;     /* centrato orizzontalmente e spazio sopra/sotto */
+    padding: 0px;         /* spazio interno tra testo e bordi */
+    background-color: #292929; /* sfondo del blocco (scuro) */
+    color: white;        /* colore del testo */
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    text-align: justify;
+}
+.text-box1 {
+    width: 80%;
+    margin: 20px auto;     /* centrato orizzontalmente e spazio sopra/sotto */
+    padding: 0px;         /* spazio interno tra testo e bordi */
+    background-color: #292929; /* sfondo del blocco (scuro) */
+    color: white;        /* colore del testo */
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    text-align: center;
+}
+
